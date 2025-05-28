@@ -1,4 +1,4 @@
-# IKEA Screenshot API
+# Screenshot API
 
 This server captures full IKEA page screenshots in three parts using Puppeteer, for use in a Figma plugin.
 
@@ -10,4 +10,4 @@ This server captures full IKEA page screenshots in three parts using Puppeteer, 
 
 ## Usage
 
-Send a GET request to:
+Run FIGMA Plugin
