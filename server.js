@@ -15,8 +15,6 @@ app.get("/screenshot", async (req, res) => {
   try {
     const browser = await puppeteer.launch({
       headless: "new",
-      executablePath: "/usr/bin/google-chrome",
-      args: ["--no-sandbox", "--disable-setuid-sandbox"],
       defaultViewport: { width: 1400, height: 1000 }
     });
 
