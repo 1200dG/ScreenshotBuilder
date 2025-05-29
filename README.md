@@ -4,7 +4,6 @@ This server captures full IKEA page screenshots in three parts using Puppeteer, 
 
 ## Deploying
 
-- Free to deploy on [Render](https://render.com)
 - Uses Express + Puppeteer
 - Three-part screenshot: top, middle, bottom
 
